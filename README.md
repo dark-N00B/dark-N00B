@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dark-N00B&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
 
 
-<p align="center"><a href="https://dark-n00b.github.io/dark-N00B/">More>>></a></p>
+<!--<p align="center"><a href="https://dark-n00b.github.io/dark-N00B/">More>>></a></p>-->
