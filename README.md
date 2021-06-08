@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center"> Hi there, I'm dark N00B. </h3>
+<h3 align="center"> Hi there, I'm darkN00B. </h3>
 An Enthusiast Developer from India.<br>
 ● Learning Java, C, and Kotlin. <br>
 ● Love to play around with Android Devices.<br>
