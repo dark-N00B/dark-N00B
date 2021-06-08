@@ -24,4 +24,4 @@ An Enthusiast Developer from India.<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dark-N00B&style=flat-square" alt="dark-N00B"/> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dark-N00B&theme=dark"/></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=darkN00B&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dark-N00B&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
