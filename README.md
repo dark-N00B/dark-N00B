@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center"> Hi there, I'm darkN00B. </h3>
-<p align="center">An Enthusiast Developer from India.</p>
+<p align="center">An Enthusiastc Developer from India.</p>
 ● Learning Java, Python, Kotlin and React. <br>
 ● Love to play around with Android Devices.<br>
 ● How to reach me: You can contact me on <a href="https://t.me/dark_noob/">Telegram</a> 
